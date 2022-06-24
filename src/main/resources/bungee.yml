@@ -1,0 +1,4 @@
+name: Party
+version: '${project.version}'
+main: me.moontimer.party.PartyMain
+description: PartyPlugin
